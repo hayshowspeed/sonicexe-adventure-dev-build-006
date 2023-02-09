@@ -15,7 +15,7 @@ namespace myImages {
 . 2 2 . 2 2 . . 
 `;
             case "image2":
-            case "sonicexe":return img`
+            case "sonicexe menu cancel one":return img`
 fffffffffffffffffffff
 fffffffffffffffffffff
 fffffffffffffffffffff
@@ -34,15 +34,15 @@ ffffffff5151515151515
 888111717225555552222
 8888117ff252222222222
 88dd222d2222222225222
-88dddddf.222222222222
-.dff8ddf.222222222222
+88dddddf3222222222222
+cdff8ddf3222222222222
 ff11fdd1fffffffffffff
 f1121fd12ffffffffffff
-.f12f8fffffffffffffff
-..fff8fffffffffffffff
-..f8f8fffffffffffffff
-.ff8f8fffffffffffffff
-.111ff1ff.fffffffffff
+cf12f8fffffffffffffff
+ccfff8fffffffffffffff
+ccf8f8fffffffffffffff
+cff8f8fffffffffffffff
+c111ff1ff.fffffffffff
 `;
         }
         return null;
